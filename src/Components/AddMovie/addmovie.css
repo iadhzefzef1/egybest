@@ -1,0 +1,21 @@
+.AddMovie {
+  max-width: 50%;
+  margin: 70px auto;
+}
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+h6 {
+  margin-right: 120px;
+}
+
+.input-group-text {
+  background-color: black;
+  color: red;
+}
+
+..col-form-label {
+  color: red;
+}

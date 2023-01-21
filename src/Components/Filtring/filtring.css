@@ -1,0 +1,30 @@
+.searchform {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 40px 0;
+  padding: 15px 0;
+  background-color: #20232a;
+}
+.searchinp {
+  width: 400px;
+  padding: 0px;
+  margin: 0px;
+  height: 40px;
+}
+
+.searchbtn {
+  height: 40px;
+}
+
+.form-control {
+  color: red;
+  background-color: #1a1a1a;
+  border: 1px solid #ff0000;
+}
+
+.btn-primary {
+  color: black;
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
